@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ucmazmehmet
+- 👋 Hi, I’m Mehmet Ucmaz
 - 👀 I’m interested in Flutter and Dart
 - 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on Flutter
